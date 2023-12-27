@@ -96,8 +96,8 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'devcabra_site_2',
-        'USER': 'devcabra_user_2',
+        'NAME': 'devcabra_site_3',
+        'USER': 'devcabra_user_3',
         'PASSWORD': 'cLbB17975319$',
         'HOST': 'localhost',
         'PORT': '5432',
