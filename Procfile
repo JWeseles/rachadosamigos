@@ -1,0 +1,1 @@
+web: gunicorn rachadosamigos.wsgi --log-file -
